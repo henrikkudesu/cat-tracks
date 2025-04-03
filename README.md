@@ -24,8 +24,4 @@ https://cat-tracks.vercel.app/
 - React Router
 - Last.fm API
 
-👨‍💻 Autor
-Leonardo Nascimento - GitHub
 
-📄 Licença
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para detalhes.

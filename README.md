@@ -3,6 +3,7 @@
 Um gerador de collages elegante para seus álbuns mais escutados no Last.fm, com design moderno e interface intuitiva.
 
 ## 📸 Demo
+https://cat-tracks.vercel.app/
 
 <img alt="Screenshot da aplicação" src="./screenshots/main.png">
 

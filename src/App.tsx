@@ -10,7 +10,7 @@ function App() {
             <div className="flex flex-col items-center justify-center">
               <div className="flex items-center">
                 <img
-                  src="/src/assets/cat-guitar.png"
+                  src="/assets/cat-guitar.png"
                   alt="Cat with guitar"
                   className="h-20 mr-6 drop-shadow-[0_0_10px_rgba(255,255,255,0.2)] transition-transform duration-300 cursor-pointer hover:scale-110"
                 />
